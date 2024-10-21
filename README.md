@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kachoghazi
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning PHP,Laravel, HTML,CSS and Worpress.
+- 🌱 I’m currently learning PHP, Laravel, HTML, CSS, and WordPress.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
